@@ -1,6 +1,7 @@
 [submodule "AirSend_Linux"]
 	path = AirSend_Linux
-	url = git@github.com:Anmol-Bits/AirSend_Linux.git
+	url = https://github.com/theAnmol08/AirSend_Linux.git
+
 [submodule "AirSend_Android"]
 	path = AirSend_Android
-	url = git@github.com:Anmol-Bits/AirSend_Android.git
+	url = https://github.com/theAnmol08/AirSend_Android.git
